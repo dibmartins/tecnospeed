@@ -1,5 +1,5 @@
 {
-    "name"          : "victordeaguiarsouza/tecnospeed",
+    "name"          : "victordeaguiarsouza/api_tecnospeed",
     "description"   : "Wrapper php para comunicação com a api tecnospeed",
     "type"          : "library",
     "license"       : "MIT",
