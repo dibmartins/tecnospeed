@@ -4,6 +4,9 @@ namespace Tecnospeed\Nfse\Responses;
 
 class ConsultaResponse {
 
+    public $status;
+    public $retorno;
+
     public function formatarRetorno($linhasRetorno, $data, $delimiter){
         
         $retorno = [];

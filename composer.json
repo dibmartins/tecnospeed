@@ -1,6 +1,6 @@
 {
-    "name"          : "dibmartins/tecnospeed",
-    "description"   : "Fork da lib criada pelo Victor.",
+    "name"          : "victordeaguiarsouza/api_tecnospeed",
+    "description"   : "Wrapper php para comunicação com a api tecnospeed",
     "type"          : "library",
     "license"       : "MIT",
     "authors": [{
